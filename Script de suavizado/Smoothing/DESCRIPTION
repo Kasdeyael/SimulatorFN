@@ -1,0 +1,8 @@
+Package: Smoothing
+Type: Package
+Title: Smoothing
+Version: 0.2.1
+Author: Kasdeyael
+Description: Smoothing Function for parsed datasets
+Encoding: UTF-8
+LazyData: true
