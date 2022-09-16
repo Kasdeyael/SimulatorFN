@@ -1,0 +1,31 @@
+<parameters>
+<parameter name="model">
+    <value>3</value>
+</parameter>
+<parameter name="probInfect">
+    <start>0.005</start>
+	<end>0.01</end>
+    <step>0.005</step>
+</parameter>
+<parameter name="probMakeDenier">
+    <start>0.005</start>
+	<end>0.01</end>
+    <step>0.005</step>
+</parameter>
+<parameter name="probAcceptDeny">
+    <start>0.005</start>
+	<end>0.01</end>
+    <step>0.005</step>
+</parameter>
+<parameter name="probInfl">
+    <start>0.005</start>
+	<end>0.005</end>
+    <step>0.001</step>
+</parameter>
+<parameter name="engagement">
+    <start>0.9</start>
+	<end>0.91</end>
+    <step>0.01</step>
+</parameter>
+
+</parameters>
