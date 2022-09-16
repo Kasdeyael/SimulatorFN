@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<parameters>
+					<parameter name="linksPerNode" displayName="(BA)Links per Node" type="int" 
+						defaultValue="10" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+												displayOrder="15.0"
+					/>
+				<parameter name="numberAgents" displayName="Number of Agents" type="int" 
+						defaultValue="100" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+												displayOrder="5.0"
+					/>
+				<parameter name="numberBots" displayName="(M2-4)Number of Bots" type="int" 
+						defaultValue="2" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+												displayOrder="11.0"
+					/>
+				<parameter name="probNetwork" displayName="(ER)Probability to Connect" type="double" 
+						defaultValue="0.018" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+												displayOrder="17.0"
+					/>
+				<parameter name="engagement" displayName="(M3-4)Engagement of News" type="double" 
+						defaultValue="1.0" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+												displayOrder="13.0"
+					/>
+				<parameter name="probInfect" displayName="Probability to Infect" type="double" 
+						defaultValue="0.0107" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+												displayOrder="7.0"
+					/>
+				<parameter name="initialNodes" displayName="(BA)Initial Nodes" type="int" 
+						defaultValue="10" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+												displayOrder="16.0"
+					/>
+				<parameter name="modelType" displayName="Model (M1, M2, M3, Countermeasure)" type="int" 
+						defaultValue="3" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+												values="1 2 3 4 "
+												displayOrder="1.0"
+					/>
+				<parameter name="networkSeed" displayName="Default Network Seed" type="int" 
+						defaultValue="17" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+												displayOrder="4.0"
+					/>
+				<parameter name="numberInfluencers" displayName="(M2-4)Number of Influencers" type="int" 
+						defaultValue="5" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+												displayOrder="12.0"
+					/>
+				<parameter name="randomSeed" displayName="Default Random Seed" type="int" 
+						defaultValue="__NULL__"
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+												displayOrder="3.0"
+					/>
+				<parameter name="probMakeDenier" displayName="Probability to Make Denier" type="double" 
+						defaultValue="0.0047" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+												displayOrder="8.0"
+					/>
+				<parameter name="probAcceptDeny" displayName="Probability to Accept the Deny" type="double" 
+						defaultValue="0.0045" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+												displayOrder="9.0"
+					/>
+				<parameter name="probCounter" displayName="(M4)Probability of Sharing" type="double" 
+						defaultValue="0.6789" 
+						isReadOnly="true" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+												displayOrder="14.0"
+					/>
+				<parameter name="infectedAgents" displayName="(M1)Number of Infected" type="int" 
+						defaultValue="2" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$IntConverter"
+												displayOrder="6.0"
+					/>
+				<parameter name="probInfl" displayName="(M2-4)Probability to Influence" type="double" 
+						defaultValue="0.019" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$DoubleConverter"
+												displayOrder="10.0"
+					/>
+				<parameter name="networkType" displayName="Network (BA, ER)" type="java.lang.String" 
+						defaultValue="Barabasi-Albert" 
+						isReadOnly="false" 
+						converter="repast.simphony.parameter.StringConverterFactory$StringStringConverter"
+												values="Barabasi-Albert Erdos-Renyi "
+												displayOrder="2.0"
+					/>
+		</parameters>
+
+

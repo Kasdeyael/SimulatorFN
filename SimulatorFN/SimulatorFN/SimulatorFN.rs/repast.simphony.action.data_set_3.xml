@@ -1,0 +1,36 @@
+<repast.simphony.data2.engine.DataSetDescriptor simphonyVersion="2.9.0">
+  <name>Percentage Daily</name>
+  <type>AGGREGATE</type>
+  <inclTick>true</inclTick>
+  <inclBatchRun>false</inclBatchRun>
+  <inclRandomSeed>false</inclRandomSeed>
+  <scheduleParams>
+    <start>0.0</start>
+    <interval>24.0</interval>
+    <priority>-Infinity</priority>
+    <pType>LAST</pType>
+    <duration>-1.0</duration>
+    <frequency>REPEAT</frequency>
+    <hashCode>-973078613</hashCode>
+  </scheduleParams>
+  <atEnd>false</atEnd>
+  <methodDataSources class="linked-hash-map"/>
+  <countSources class="linked-hash-map"/>
+  <customNADataSources class="linked-hash-map"/>
+  <customAggDataSources class="linked-hash-map">
+    <entry>
+      <string>endorserDailyP</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>endorserDailyP</id>
+        <dsClassName>dataCollection.PercentagesDailyAggregated</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+    <entry>
+      <string>vaccinatedDailyP</string>
+      <repast.simphony.data2.engine.CustomDataSourceDefinition>
+        <id>vaccinatedDailyP</id>
+        <dsClassName>dataCollection.PercentagesDailyAggregatedVac</dsClassName>
+      </repast.simphony.data2.engine.CustomDataSourceDefinition>
+    </entry>
+  </customAggDataSources>
+</repast.simphony.data2.engine.DataSetDescriptor>

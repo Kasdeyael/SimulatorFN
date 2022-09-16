@@ -1,0 +1,18 @@
+Signature-Version: 1.0
+Created-By: 11.0.12 (Eclipse Foundation)
+SHA-256-Digest-Manifest: 1T4tNKmD12gA6K0s470xNkKKlBUJSbe8GyAbFGDgLD0=
+SHA-256-Digest-Manifest-Main-Attributes: h8T1LICDj91hBwUkZCEZT06KE0+xYtI
+ PBY2iaYpQ3ls=
+
+Name: lib/piccolo2d-core-3.0.jar
+SHA-256-Digest: KQSkM7kKeY2cPw60oC1yi1dnpvQ+eeHmu+mib4dKpN0=
+
+Name: plugin_jpf.xml
+SHA-256-Digest: 7HGvRVLnxWR6BST6F90f4nsgdL7KOjLhxYQXg87baac=
+
+Name: licenses/piccolo-license.txt
+SHA-256-Digest: 5+WNE9h+Zj8CliLLiBQyMV6oHAf2XQdPPX4zVDvWBjM=
+
+Name: lib/piccolo2d-extras-3.0.jar
+SHA-256-Digest: yFlNl517iGGe4joNP1K4yAOX8S+dipX+x6HN+tFYIGo=
+

@@ -1,0 +1,18 @@
+Signature-Version: 1.0
+Created-By: 11.0.12 (Eclipse Foundation)
+SHA-256-Digest-Manifest: 73qbDMLT1FwCo4neo4DR/ShKYrv1ZgU5jZMOCua5sl4=
+SHA-256-Digest-Manifest-Main-Attributes: jnVKPxTk9rGwg7iG04RSaxfJFHsUy0L
+ JNHkSLwngLmI=
+
+Name: lib/bsf.jar
+SHA-256-Digest: LwYKqLXlK06rkyFBfXUMtWib8is+KPE5xH87FeemK6A=
+
+Name: licenses/lgpl-2.1.txt
+SHA-256-Digest: 8r/6IvgU6NAa7tWr79j33fXGqQU4IC/MKH9iL7pQXuw=
+
+Name: lib/bsh-2.0b4.jar
+SHA-256-Digest: 4Dj94i+Wau9UUSJP/dSkObBvNbyVD8Tm0X187mhpPkU=
+
+Name: plugin_jpf.xml
+SHA-256-Digest: 1Nov+qE+Hiev+SEJmKFoaVvv+SyjAKMjD/IbendHF98=
+

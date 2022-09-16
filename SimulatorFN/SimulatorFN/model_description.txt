@@ -1,0 +1,1 @@
+This is a multiagent simulator for the spread of fake news in a connected network.

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><sweep runs="1">
+<parameter constant_type="int" name="linksPerNode" type="constant" value="10"/>
+<parameter constant_type="int" name="numberAgents" type="constant" value="1000"/>
+<parameter constant_type="int" name="numberBots" type="constant" value="2"/>
+<parameter constant_type="double" name="engagement" type="constant" value="1.0"/>
+<parameter constant_type="double" name="probInfect" type="constant" value="0.0107"/>
+<parameter constant_type="int" name="initialNodes" type="constant" value="10"/>
+<parameter constant_type="int" name="networkSeed" type="constant" value="17"/>
+<parameter constant_type="int" name="numberInfluencers" type="constant" value="5"/>
+<parameter constant_type="double" name="probMakeDenier" type="constant" value="0.0047"/>
+<parameter constant_type="double" name="probAcceptDeny" type="constant" value="0.0045"/>
+<parameter constant_type="int" name="infectedAgents" type="constant" value="2"/>
+<parameter constant_type="double" name="probInfl" type="constant" value="0.019"/>
+<parameter constant_type="double" name="probNetwork" type="constant" value="0.03"/>
+<parameter constant_type="double" name="probCounter" type="constant" value="0.6789"/>
+<parameter constant_type="java.lang.String" name="networkType" type="constant" value="Barabasi-Albert"/>
+<parameter constant_type="int" name="modelType" type="constant" value="3"/>
+<parameter end="100" name="randomSeed" number_type="int" start="1" step="1" type="number"/>
+</sweep>

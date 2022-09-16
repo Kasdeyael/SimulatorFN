@@ -1,0 +1,24 @@
+Signature-Version: 1.0
+Created-By: 11.0.12 (Eclipse Foundation)
+SHA-256-Digest-Manifest: n0E3AXG44xE+8GET5guLr28w23t2unT0GNaegbGe0Pk=
+SHA-256-Digest-Manifest-Main-Attributes: TcpNd8ipavnI7VeZWigwBD3R5AJ9n4M
+ lgJZuoRKGQc8=
+
+Name: licenses/repast-license.txt
+SHA-256-Digest: uoBFsylVd05h9Kq1mkaFjIKlaaZmqFs94yMY/TuWXEM=
+
+Name: bin/repast/simphony/spreadsheet/license.txt
+SHA-256-Digest: DUrub9OOW86LdSVfaRd1r/kEeTJFSaEZKsI23lVC044=
+
+Name: bin/repast/simphony/spreadsheet/SpreadSheetWizard.class
+SHA-256-Digest: oS3ddw1aqB+0qcyT/HFWhwx9aW4Szh4Tk9MEpSt4mns=
+
+Name: plugin_jpf.xml
+SHA-256-Digest: JbZgQvoF7bxU3QiElg0TIYxBw88VLi1qev+U48gE00s=
+
+Name: bin/repast/simphony/spreadsheet/RunSpreadsheetModel.class
+SHA-256-Digest: VlA2DmfP5bpaTxzU2dnOTitvBkKNcaRyASqHmeGxJ1A=
+
+Name: icons/journal.png
+SHA-256-Digest: eVB04y3fWvYOotOIG8gSm0mbcHRcm+0QeazU4AJVGPY=
+
