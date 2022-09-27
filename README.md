@@ -1,5 +1,5 @@
 # SimulatorFN
-This project is a simulator for fake news diffusion using Repast Simphony, including a tool for the management of the validation results in a database and a parser for datasets to obtain the percentages of spread of a rumor or fake news article. In this file we give context to each folder. The full instructions for installation or use are in the manuals of the memoria file (only in Spanish).
+This project is a simulator for fake news diffusion using Repast Simphony, including a tool for the management of the validation results in a database and a parser for datasets to obtain the percentages of spread of a rumor or fake news article. In this file we give context to each folder. The full instructions for installation or use are in the manuals of the [manuales](manuales.pdf) file (only in Spanish).
 
 *This file can also be read in [Spanish](README.sp.md).*
 
